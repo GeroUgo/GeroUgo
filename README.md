@@ -1,26 +1,25 @@
 # 👨‍💻 **GeroDevON** - Full Stack Developer
 
-¡Hola! Soy **Gerónimo Ugo**, un desarrollador full-stack con pasión por crear soluciones innovadoras y aprender nuevas tecnologías. Siempre estoy buscando mejorar mis habilidades y crear proyectos impactantes.
+¡Hola! Soy **Gerónimo Ugo**, un desarrollador Frontend con pasión por crear soluciones innovadoras y aprender nuevas tecnologías. Siempre estoy buscando mejorar mis habilidades y crear proyectos impactantes.
 
 ## 🌐 **Conéctate conmigo**
-- **Correo**: [gerodev.official@gmail.com](mailto:gerodev.official@gmail.com)
+- **Correo**: [gerodev.dev@gmail.com](mailto:gerodev.dev@gmail.com)
 - **Ubicación**: Buenos Aires, Argentina
-- **Sitio web**: [gerodevs.com](https://gerodevs.com)
-- **Instagram**: [@gerodevs](https://www.instagram.com/gerodevs)
+- **Sitio web**: [gerodevs.com]()
+- **Instagram**: [@gerodevs]()
 
 ## 🛠️ **Tecnologías y Herramientas**
 - **Lenguajes de programación**: JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js
-- **Bases de datos**: MongoDB, MySQL
-- **Herramientas**: Git, GitHub, VS Code, Docker, Postman
-- **Otros**: Tailwind CSS, Bootstrap, Express.js
+- **Frameworks**: React
+- **Herramientas**: Git, GitHub, VS Code
+- **Otros**: Tailwind CSS, Bootstrap
 
 ## 🐱‍🏍 **Proyectos Destacados**
 Aquí te dejo algunos de mis proyectos más recientes:
 
-- **[Proyecto 1](https://github.com/GeroDevON/proyecto1)** - Descripción breve del proyecto.
-- **[Proyecto 2](https://github.com/GeroDevON/proyecto2)** - Descripción breve del proyecto.
-- **[Proyecto 3](https://github.com/GeroDevON/proyecto3)** - Descripción breve del proyecto.
+- **[Proyecto 1](https://github.com/GeroDevON/proyecto1)** - 
+- **[Proyecto 2](https://github.com/GeroDevON/proyecto2)** - 
+- **[Proyecto 3](https://github.com/GeroDevON/proyecto3)** - 
 
 ## 🧑‍🎓 **Acerca de mí**
 Soy un desarrollador que siempre está aprendiendo. Mi objetivo es crear aplicaciones de alta calidad que ayuden a mejorar la vida de los usuarios. Me encanta enfrentar desafíos técnicos y trabajar en equipo para encontrar las mejores soluciones.
@@ -29,9 +28,7 @@ Actualmente, estoy aprendiendo **React.js** y buscando proyectos freelance para 
 
 ## 🚀 **Habilidades**
 - Desarrollo de aplicaciones web con **JavaScript** y **React**.
-- Creación de APIs RESTful usando **Node.js** y **Express.js**.
 - Diseño de interfaces de usuario atractivas con **HTML**, **CSS**, y **Tailwind CSS**.
-- Implementación de bases de datos relacionales y no relacionales.
 
 ## 🔄 **Frase dinámica** 
 Aquí te dejo un ejemplo de cómo **puedo mover iconos** o mostrar **textos dinámicos**:

@@ -30,13 +30,6 @@ Actualmente, estoy aprendiendo **React.js** y buscando proyectos freelance para 
 - Desarrollo de aplicaciones web con **JavaScript** y **React**.
 - Diseño de interfaces de usuario atractivas con **HTML**, **CSS**, y **Tailwind CSS**.
 
-## 🔄 **Frase dinámica** 
-Aquí te dejo un ejemplo de cómo **puedo mover iconos** o mostrar **textos dinámicos**:
-
-✨ **"Estoy aprendiendo React.js"**  
-🚀 **"Desarrollando mi portafolio"**  
-🔧 **"Listo para proyectos freelance"**
-
 ## 📬 **¡Hablemos!**
 Si tienes un proyecto interesante o simplemente quieres conectarte, ¡no dudes en enviarme un mensaje!
 

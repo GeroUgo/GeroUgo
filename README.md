@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&width=800&lines=Frontend+Developer+%7C+Apasionado+por+la+Web;Construyo+experiencias+interactivas;Aprendo+y+creo+cada+d%C3%ADa+con+tecnolog%C3%ADas+nuevas)](https://git.io/typing-svg)
 
 
-
+<br>
 
 
 ### 🌟 **¡Hola! Soy Gerónimo Ugo**
@@ -11,6 +11,7 @@
 Soy un **desarrollador Frontend** con pasión por crear soluciones innovadoras y aprender constantemente nuevas tecnologías. Siempre busco **mejorar mis habilidades** y llevar a cabo proyectos que causen impacto positivo.
 
 
+<br>
 
 
 ## 🛠️ **Tecnologías y Herramientas**
@@ -26,7 +27,7 @@ Soy un **desarrollador Frontend** con pasión por crear soluciones innovadoras y
 </p>
 
 
-
+<br>
 
 
 ## 🚀 **Proyectos Destacados**
@@ -38,7 +39,7 @@ Soy un **desarrollador Frontend** con pasión por crear soluciones innovadoras y
 | **[Proyecto 3](https://github.com/GeroDevON/proyecto3)** | Descripción breve del proyecto 3     | [Ver más](https://github.com/GeroDevON/proyecto3) |
 
 
-
+<br>
 
 
 ## 🌐 **Conéctate conmigo**
@@ -50,7 +51,7 @@ Soy un **desarrollador Frontend** con pasión por crear soluciones innovadoras y
 </p>
 
 
-
+<br>
 
 
 ## 🎯 **Sobre mí**
@@ -61,7 +62,7 @@ Soy un **desarrollador Frontend** con pasión por crear soluciones innovadoras y
 - 🌱 Aprendo cada día, siempre listo para enfrentar **nuevos desafíos**.
 
 
-
+<br>
 
 
 ## 📬 **¡Hablemos!**
@@ -73,7 +74,7 @@ Si tienes una idea, un proyecto interesante o simplemente quieres charlar sobre 
 </p>
 
 
-
+<br>
 
 
 <p align="center">

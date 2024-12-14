@@ -2,10 +2,13 @@
 
 ¡Hola! Soy **Gerónimo Ugo**, un desarrollador Frontend con pasión por crear soluciones innovadoras y aprender nuevas tecnologías. Siempre estoy buscando mejorar mis habilidades y crear proyectos impactantes.
 
+
+![Typewriter](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=6A5ACD&width=500&lines=Hola%2C+soy+Ger%C3%B3nimo;Soy+Full+Stack+Developer;Y+me+encanta+crear+proyectos)
+
 ## 🌐 **Conéctate conmigo**
-- **Correo**: [gerodev.dev@gmail.com](mailto:gerodev.dev@gmail.com)
+- **Correo**: [gerougo.dev@gmail.com](mailto:gerodev.dev@gmail.com)
 - **Ubicación**: Buenos Aires, Argentina
-- **Sitio web**: [gerodevs.com]()
+- **Sitio web**: [gerougo.dev]()
 - **Instagram**: [@gerodevs]()
 
 ## 🛠️ **Tecnologías y Herramientas**

@@ -1,4 +1,4 @@
-# 👨‍💻 **GeroDevON** - Full Stack Developer
+# 👨‍💻 **GeroUgo** - Full Stack Developer
 
 ¡Hola! Soy **Gerónimo Ugo**, un desarrollador Frontend con pasión por crear soluciones innovadoras y aprender nuevas tecnologías. Siempre estoy buscando mejorar mis habilidades y crear proyectos impactantes.
 

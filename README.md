@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&width=800&lines=Frontend+Developer+%7C+Apasionado+por+la+Web;Construyo+experiencias+interactivas;Aprendo+y+creo+cada+d%C3%ADa+con+tecnolog%C3%ADas+nuevas)](https://git.io/typing-svg)
 
 
-<br>
-
-
 ### 🌟 **¡Hola! Soy Gerónimo Ugo**
 
 Soy un **desarrollador Frontend** con pasión por crear soluciones innovadoras y aprender constantemente nuevas tecnologías. Siempre busco **mejorar mis habilidades** y llevar a cabo proyectos que causen impacto positivo.

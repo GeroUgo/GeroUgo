@@ -1,6 +1,6 @@
 # 👨‍💻 **GeroUgo** - Frontend Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&width=800&lines=Frontend+Developer+%7C+Apasionado+por+la+Web;Construyo+experiencias+interactivas;Aprendo+y+creo+cada+d%C3%ADa+con+tecnolog%C3%ADas+nuevas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C9FF&center=true&width=800&lines=Frontend+Developer+%7C+Apasionado+por+la+Web;Construyo+experiencias+interactivas;Aprendiendo+todos+los+dias)](https://git.io/typing-svg)
 
 
 ### 🌟 **¡Hola! Soy Gerónimo Ugo**

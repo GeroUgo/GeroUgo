@@ -27,18 +27,6 @@ Soy un **desarrollador Frontend** con pasión por crear soluciones innovadoras y
 <br>
 
 
-## 🚀 **Proyectos Destacados**
-
-| **Nombre del Proyecto** | **Descripción Breve**                       | **Enlace**                           |
-|--------------------------|--------------------------------------------|--------------------------------------|
-| **[Proyecto 1](https://github.com/GeroDevON/proyecto1)** | Descripción breve del proyecto 1     | [Ver más](https://github.com/GeroDevON/proyecto1) |
-| **[Proyecto 2](https://github.com/GeroDevON/proyecto2)** | Descripción breve del proyecto 2     | [Ver más](https://github.com/GeroDevON/proyecto2) |
-| **[Proyecto 3](https://github.com/GeroDevON/proyecto3)** | Descripción breve del proyecto 3     | [Ver más](https://github.com/GeroDevON/proyecto3) |
-
-
-<br>
-
-
 ## 🌐 **Conéctate conmigo**
 
 <p align="center">
